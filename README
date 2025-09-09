@@ -1,0 +1,48 @@
+Overview
+This project provides a practical design and implementation of a Small Office/Home Office (SOHO) network using Cisco Packet Tracer. The network supports three departments, integrates wired and wireless clients, and employs DHCP and VLAN segmentation to optimize traffic flow and network management.
+
+Objectives
+Develop a robust and efficient SOHO network with separate segments for departments.
+
+Configure VLANs for traffic isolation and efficient resource management.
+
+Implement inter-VLAN routing using router-on-a-stick.
+
+Set up DHCP for automatic IP address assignment to hosts.
+
+Integrate wireless access with secure Wi-Fi authentication (WPA2).
+
+Enable connectivity between all devices, including PCs, laptops, and a network printer.
+
+Technologies Implemented
+VLAN configuration and port assignments
+
+Inter-VLAN routing (router subinterfaces with 802.1Q encapsulation)
+
+DHCP server setup on router
+
+Wireless network (Wi-Fi SSID, security, access point)
+
+IP addressing and subnetting for hosts and departments
+
+Testing and verification of network communication across all segments
+
+Features
+Three departmental VLANs (IT, Finance, Customer Service)
+
+Wired and wireless device integration
+
+Secure wireless authentication
+
+Network printer with static IP
+
+DHCP pool and automatic host configuration
+
+Troubleshooting steps included for practical learning
+
+Getting Started
+Use Cisco Packet Tracer to build the project topology.
+
+Apply configuration commands as provided in the README.
+
+Test connectivity between devices and troubleshoot any issues.
